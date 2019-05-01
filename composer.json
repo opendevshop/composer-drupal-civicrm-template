@@ -14,6 +14,10 @@
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
+        "civicrm-composer-plugin": {
+            "type": "vcs",
+            "url": "https://gitlab.com/jonpugh/civicrm-composer-plugin"
+        },
         "zetacomponents-mail": {
             "type": "vcs",
             "url": "https://github.com/civicrm/zetacomponents-mail.git"
